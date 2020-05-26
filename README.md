@@ -18,3 +18,5 @@ Este codigo esta escrito en el lenguage C, utilizando los archivos de inclusión
 Todo el codigo esta contenido en un solo archivo, llamado 'Final.c'. Dentro de este archivo hay una explicación mas detallada de cada una de sus partes y funcionamiento, que variables utiliza, los datos que recibe y los que imprime.
 
 Adicionalmente, el archivo 'a.exe' se puede utilizar para ejecutar el codigo dentro de 'Final.c'.
+
+Por ultimo, se incluye el archivo 'PreguntasParcial.txt' donde se resuelven los posibles y existentes errores del codigo notados.

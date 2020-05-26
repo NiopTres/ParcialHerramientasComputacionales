@@ -1,0 +1,11 @@
+Preguntas Parcial Final de Herramientas Computacionales:
+b)
+	1. Que tipo de errores se presentaron o se pueden presentar con su implementación al problema?
+		Durante la implementación del codigo se encontraron algunos errores cuando se ingresan 
+		ciertas cantidades numericas, las cuales muestran una limitación de calculo del lenguage.
+		Adicionalmente el codigo solo puede recibir los roles "Estudiante" y "Profesor" 
+		especificamente y no acepta errores ortograficos.
+
+	2. Que estrategias podría usar para solucionar estos errores?
+		Mejorar el codigo para que incluya excepciones espcificas y logre detectar cuando un valor
+		o palabra incorrecta sea ingresado y reinicie las preguntas.
